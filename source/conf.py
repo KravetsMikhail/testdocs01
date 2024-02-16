@@ -25,6 +25,6 @@ language = 'ru'
 
 # html_theme = 'alabaster'
 # html_theme = 'sphinx_material'
-# html_theme = 'sphinx_rtd_theme'
-html_theme = 'groundwork'
+html_theme = 'sphinx_rtd_theme'
+# html_theme = 'groundwork'
 html_static_path = ['_static']
