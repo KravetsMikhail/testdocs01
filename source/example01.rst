@@ -4,6 +4,8 @@
 Подзаголовок
 -------------
 
+.. _my-favicon:
+
 .. figure:: /_static/test01.png
        :scale: 100 %
        :align: center
