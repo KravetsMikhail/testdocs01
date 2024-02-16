@@ -4,7 +4,7 @@
 Подзаголовок
 -------------
 
-.. figure:: _static/favicon.png
+.. figure:: _static/test01.png
        :scale: 100 %
        :align: center
        :alt: Альтернативный текст
