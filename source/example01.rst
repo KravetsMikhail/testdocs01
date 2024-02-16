@@ -35,3 +35,9 @@
 #. Один
 #. Два
 #. Три
+
+.. graphviz::
+
+   digraph foo {
+      "bar" -> "baz";
+   }
