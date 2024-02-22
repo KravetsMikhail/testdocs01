@@ -14,7 +14,7 @@
    :maxdepth: 2
    :numbered:
    :caption: Содержание:
-   :hidden:
+.. :hidden:
 
    example01
    example02
