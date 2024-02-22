@@ -4,7 +4,7 @@
 Cсылкf на изображение :ref:`my-favicon`:
 
 
-.. plantuml::
+.. uml::
 
     @startuml
     Alice -> Bob: test
