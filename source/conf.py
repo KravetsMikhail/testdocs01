@@ -18,7 +18,8 @@ release = '1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-  'sphinxcontrib.plantuml',
+  'sphinx.ext.graphviz',
+  'sphinxcontrib.plantuml'
 ]
 
 templates_path = ['_templates']
